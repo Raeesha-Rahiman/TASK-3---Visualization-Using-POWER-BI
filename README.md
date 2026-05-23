@@ -79,6 +79,13 @@ Key Insight:
 - Product movement efficiency varied significantly across stores.
 - Competitor pricing gaps were more noticeable in selected categories.
 
+
+<img width="1028" height="556" alt="OVERIVEIW DASHBOARD" src="https://github.com/user-attachments/assets/ca8a77af-36fa-4d4a-b580-f93973055818" />
+
+
+<img width="996" height="558" alt="INVENTORY OPERATIONAL DASHBOARD" src="https://github.com/user-attachments/assets/5de30d3d-ea23-41fc-b417-72777f96ef23" />
+
+
 ## Conclusion
 
 This dashboard demonstrates how data visualization can support operational and inventory decision-making. By analyzing inventory behavior, discounts, demand forecasts, and product movement efficiency, businesses can reduce stock imbalance and improve operational efficiency.
