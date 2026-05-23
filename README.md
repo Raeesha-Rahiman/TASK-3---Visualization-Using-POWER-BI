@@ -31,6 +31,7 @@ The objective of this project is to support inventory optimization, identify sto
 - Power Query
 - DAX
 - CSV Dataset
+### Created Interactive Dashboard with 2 pages one which gives Insights of Overview of Inventory and other operational Insights where both the dashboards are inteconected 
 
 ## Dashboard Features
 1. Inventory Overview Dashboard
